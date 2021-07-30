@@ -1,4 +1,4 @@
-#### 👋  Hi, We are tomo studio, a creative development house based in Jakarta, Indonesia.
+## 👋  Hi, We are tomo studio, a creative development house based in Jakarta, Indonesia.
 
 We help businesses in creating exciting and engaging digital experiences.
 
