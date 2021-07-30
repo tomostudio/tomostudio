@@ -1,6 +1,6 @@
 ## 👋  Hi, We are tomo studio, a creative development house based in Jakarta, Indonesia.
 
-We help businesses in creating exciting and engaging digital experiences.
+We help businesses in reimagining ways to create purposeful 🚀 & interesting 👾 solutions through collaboration. 
 
 Technology we love:
-`HTML` `CSS` `React JS` `Gatsby` `Next JS` `Sanity` `Netlify CMS`
+`Next JS` `Next JS` `Gatsby`  `Sanity`
